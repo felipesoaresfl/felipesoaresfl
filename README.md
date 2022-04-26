@@ -1,4 +1,4 @@
-## E ai padawan! eu sou o Felipe Soares
+## E ai padawan! Eu sou o Felipe Soares
 Here are some ideas to get you started:
 
 - 🔭 Estágiario Full Stack na Buser Brasil
