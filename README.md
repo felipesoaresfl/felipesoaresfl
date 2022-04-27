@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Estágiario Full Stack na Buser Brasil
-- 🌱 Estudando CSS/HTML/Python/Java
+- 🌱 Estudando CSS/ HTML/ Python/ Java
 
 <div align="center">
   <a href="https://github.com/felipesoaresfl">
