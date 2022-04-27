@@ -1,4 +1,4 @@
-## E ai! Traquilin? Eu sou o Felipe Soares 🚀
+## E ai! Traquilin? Eu sou o Felipe Soares, amante de tecnologia, astronomia e coisas maneiras 🚀
 Here are some ideas to get you started:
 
 - 🔭 Estágiario Full Stack na Buser Brasil
@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/felipesoaresfl">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=felipesoaresfl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoaresfl&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180px" width="500px" src="https://github-readme-stats.vercel.app/api?username=felipesoaresfl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoaresfl&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
