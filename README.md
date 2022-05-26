@@ -1,11 +1,10 @@
 ## E ai! Traquilin? Me chamo Felipe Soares e esse é meu repositório GITHUB! 💻 
 
-### Dê uma olhada em meus projetos recentes e deixe alguma dica ou contribuiçã, espero que curta! AD ASTRA 🚀
+### Dê uma olhada em meus projetos recentes e deixe alguma dica ou contribuição, espero que curta! AD ASTRA 🚀
 
-Here are some ideas to get you started:
-
-- 🔭 Estágiario Full Stack na Buser Brasil
-- 🌱 Estudando CSS/ HTML/ Python/ Java
+🔭 Estágiario Full Stack na Buser Brasil.
+🌱 Desenvolvendo em CSS/ HTML/ Python/ Java/ JavaScript.
+📚 Estudando Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/felipesoaresfl">
