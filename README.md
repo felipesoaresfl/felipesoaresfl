@@ -1,4 +1,4 @@
-## E ai! Traquilin? Me chamo Felipe Soares, curto muito tecnologia, astronomia, aprender algo novo e outras coisas maneiras 🚀
+## E ai! Traquilin? Me chamo Felipe Soares e esse é meu repositório GITHUB, dê uma olhada e deixe sua contibuição ou dica nos meus projetos públicos, espero que goste! 🚀
 
 Here are some ideas to get you started:
 
