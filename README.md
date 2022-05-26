@@ -11,11 +11,18 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipesoaresfl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoaresfl&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+
+  ## 🖥️ Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Feza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Feza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Feza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Feza-HTML" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Feza-CSS" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Feza-Python" height="60" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Feza-JS" height="60" width="70"  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Feza-React" height="60" width="70"   
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Feza-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
 
   
   ##
