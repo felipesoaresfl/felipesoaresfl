@@ -1,4 +1,5 @@
-## E ai! Traquilin? Eu sou o Felipe Soares, amante de tecnologia, astronomia e coisas maneiras 🚀
+## E ai! Traquilin? Me chamo Felipe Soares, curto muito tecnologia, astronomia, aprender algo novo e outras coisas maneiras 🚀
+
 Here are some ideas to get you started:
 
 - 🔭 Estágiario Full Stack na Buser Brasil
