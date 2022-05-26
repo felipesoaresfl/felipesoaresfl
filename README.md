@@ -2,9 +2,9 @@
 
 ### Dê uma olhada em meus projetos recentes e deixe alguma dica ou contribuição, espero que curta! AD ASTRA 🚀
 
-🔭 Estágiario Full Stack na Buser Brasil.
-🌱 Desenvolvendo em CSS/ HTML/ Python/ Java/ JavaScript.
-📚 Estudando Análise e Desenvolvimento de Sistemas.
+- 🔭 Estágiario Full Stack na Buser Brasil.
+- 🌱 Desenvolvendo em CSS/ HTML/ Python/ Java/ JavaScript.
+- 📚 Estudando Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/felipesoaresfl">
