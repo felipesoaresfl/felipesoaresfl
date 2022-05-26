@@ -1,6 +1,6 @@
 ## E ai! Traquilin? Me chamo Felipe Soares e esse é meu repositório GITHUB! 💻 
 
-### Dê uma olhada, deixe sua contibuição ou dica nos meus projetos públicos, espero que goste! 🚀
+### Dê uma olhada em meus projetos recentes e deixe alguma dica ou contribuiçã, espero que curta! AD ASTRA 🚀
 
 Here are some ideas to get you started:
 
