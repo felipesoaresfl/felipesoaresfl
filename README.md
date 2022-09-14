@@ -21,7 +21,9 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Feza-Vue" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Feza-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Feza-Django" height="60" width="70"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Feza-Django" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+
 </div>
 
   
