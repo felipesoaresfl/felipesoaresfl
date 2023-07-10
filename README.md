@@ -1,4 +1,4 @@
-## E ai! Me chamo Felipe Soares e esse é meu repositório GITHUB! 💻 
+## Oi! Me chamo Felipe Soares :) mas pode me chamar de Feza e esse é meu repositório GITHUB! 💻 
 
 ### Dê uma olhada em meus projetos recentes e deixe alguma dica ou contribuição, espero que curta! AD ASTRA 🚀
 
