@@ -1,9 +1,9 @@
-## Oi! Esse é meu repositório GITHUB! 💻 
+## Hey! :) This is my GITHUB repository! 💻
 
-### Dê uma olhada em meus projetos recentes e deixe alguma dica ou contribuição, espero que curta! AD ASTRA 🚀
+### Take a look at my recent projects and leave any tips or contributions, I hope you enjoy! AD ASTRA 🚀
 
-- 🌱 Desenvolvendo em Python/ Django/ JavaScript/ Vuejs/ HTML/ CSS.
-- 📚 Estudando Análise e Desenvolvimento de Sistemas.
+- 🌱 Developing in Python/ Django/ JavaScript/ Vuejs/ HTML/ CSS.
+- 📚 Studying Systems Analysis and Development.
 
 <div align="center">
   <a href="https://github.com/felipesoaresfl">
@@ -11,7 +11,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoaresfl&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ## 🖥️ Tecnologias e ferramentas:
+  ## 🖥️ Technologies and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Feza-HTML" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Feza-CSS" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
