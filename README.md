@@ -3,7 +3,7 @@
 ### Take a look at my recent projects and leave any tips or contributions, I hope you enjoy! AD ASTRA 🚀
 
 - 🌱 Developing in Python/ Django/ JavaScript/ Vuejs/ HTML/ CSS.
-- 📚 Computer Engineerin student.
+- 📚 Computer Engineeringstudent.
 
 <div align="center">
   <a href="https://github.com/felipesoaresfl">
