@@ -1,35 +1,42 @@
-## Hey! :) This is my GITHUB repository! 💻
+## 👋 Hey, I'm Felipe Soares
 
-### Take a look at my recent projects and leave any tips or contributions, I hope you enjoy! AD ASTRA 🚀
+Welcome to my GitHub profile! I'm a Computer Engineering student and a Data enthusiast, currently working with **Data Science**, **ETL**, and **Business Intelligence** solutions.
 
-- 🌱 Developing in Python/ Django/ JavaScript/ Vuejs/ HTML/ CSS.
-- 📚 Computer Engineering student.
+🚀 I'm passionate about solving problems using **Python**, **SQL**, and **Power BI** — building dashboards, automating data flows, and generating insights to support decision-making.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Data & BI
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-00C7B7?style=for-the-badge&logo=data-bricks&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/felipesoaresfl">
-  <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=felipesoaresfl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoaresfl&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesoaresfl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoaresfl&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ## 🖥️ Technologies and tools:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Feza-HTML" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Feza-CSS" height="60" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Feza-Python" height="60" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Feza-JS" height="60" width="70"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Feza-Vue" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img align="center" alt="Feza-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Feza-Django" height="60" width="70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+---
 
-</div>
+## 📫 Let's Connect
 
-  
-  ##
- 
-<div> 
-   <a href="https://www.linkedin.com/in/felipesoaresfl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:felipesoaresfleite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/fenauta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesoaresfl/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesoaresfleite@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fenauta)
