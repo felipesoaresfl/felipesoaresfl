@@ -2,17 +2,6 @@
 
 Welcome to my GitHub profile! I'm a Computer Engineering student and a Data enthusiast, currently working with **Data Science**, **ETL**, and **Business Intelligence** solutions. 🚀
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesoaresfl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoaresfl&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ## 🛠️ Skills & Tools
 
 ### Programming & Scripting
@@ -30,6 +19,8 @@ Welcome to my GitHub profile! I'm a Computer Engineering student and a Data enth
 ### Data & BI
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-00C7B7?style=for-the-badge&logo=data-bricks&logoColor=white)
 
